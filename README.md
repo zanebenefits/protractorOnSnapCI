@@ -2,7 +2,7 @@
 
 ## The problem
 
-The `chrome.conf.js` works (but not on Snap-CI) and matches documentation from [Selenimum](https://code.google.com/p/selenium/wiki/DesiredCapabilities) and [Protractor](https://github.com/angular/protractor/blob/master/docs/browser-setup.md). 
+The `chrome.conf.js` works (but not on Snap-CI) and matches documentation from [Selenium](https://code.google.com/p/selenium/wiki/DesiredCapabilities) and [Protractor](https://github.com/angular/protractor/blob/master/docs/browser-setup.md). 
 
 The `google-chrome.conf.js` uses the non-standard driver name that is on Snap-CI and only works on Snap-CI and isn't documented anywhere as far as I can tell or find.
 
